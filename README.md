@@ -77,7 +77,7 @@
 	 <a href="mailto:nahuel@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <div aling="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=nahuelriveros4&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/nahuelriveros4)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=nahuelriveros4&theme=material-palenight)](https://github.com/nahuelriveros4)
