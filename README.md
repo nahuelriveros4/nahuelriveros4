@@ -76,7 +76,7 @@
  	<a href="https://www.linkedin.com/in/nahuelriveros4/"><img 		src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	 <a href="mailto:nahuel@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<div>
+<div aling=center>
 	
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
