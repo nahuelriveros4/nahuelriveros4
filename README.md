@@ -2,7 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ciencias+de+la+Computación&center=true&width=500&height=50"></a>
 <hr/>
-<h4 align="center">Estudiante de Ciencias de la Computación.</h4>
 <h3>🛠️ Mis Habilidades</h3>
 <h3 align="center">Lenguajes</h3>
 <p align="center">
