@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi , I'm Nahuel Riveros</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Nahuel Riveros</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student&center=true&width=500&height=50"></a>
 <hr/>
-<h4 align="center">I am a Computer Science student, backend programming enthusiast, quality assurance tester, and passionate about building reliable and efficient systems.</h4>
-<h3>🛠️ My Skills</h3>
-<h3 align="center">Languages</h3>
+<h4 align="center">Estudiante de Ciencias de la Computación.</h4>
+<h3>🛠️ Mis Habilidades</h3>
+<h3 align="center">Lenguajes</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
@@ -54,7 +54,7 @@
       alt="mongodb"/> 
   </a> 
 </p>
-<h3 align="center">Software & Tools</h3>
+<h3 align="center">Software & Herramientas</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="jenkins"/> 
   </a>
 </p>
-<h3 align="center" > Contact  me 🤝 </h3>
+<h3 align="center" > Contactame 🤝 </h3>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
