@@ -24,6 +24,11 @@
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
       alt="nodejs"/> 
   </a>
+	<a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+      alt="nodejs"/>
+  </a>
+</p>
 <h3 align="center">Frontend</h3>
 <p align="center">
        <a href="https://www.w3.org/html/" target="_blank"> 
