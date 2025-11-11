@@ -18,20 +18,20 @@
       alt="python"/>
   </a>
 </p>
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend </h3>
 <p align="center">
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"
       alt="flask"/> 
   </a>
-	<a href="https://nodejs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"
       alt="nodejs"/>
   </a>
 </p>
 <h3 align="center">Frontend</h3>
 <p align="center">
-       <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"
       alt="html5"/> 
   </a>
@@ -66,13 +66,16 @@
 </p>
 <h3 align="center" > Contactame 🤝 </h3>
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a href="https://www.instagram.com/nahuelriveros4/#">
-	<img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white"></a>
- 	<a href="https://www.linkedin.com/in/nahuelriveros4/"><img 		src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white"></a>
-	 <a href="mailto:nahuel@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=gmail&logoColor=white"></a>
-</div>
+	<a href="https://www.instagram.com/nahuelriveros4/#">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+	</a>
+	<a href="https://www.linkedin.com/in/nahuelriveros4/">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a href="mailto:nahuel@example.com">
+		<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+	</a>
+</p>
 
 <h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> Github Stats </h3>
 <p align="cenetr">
