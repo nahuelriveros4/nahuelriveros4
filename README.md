@@ -67,26 +67,3 @@
 	</a>
 </p>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  Github Stats
-</h3>
-
-<p align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <!-- Stats generales -->
-        <img src="https://github-readme-stats-kohl-phi.vercel.app/api?username=nahuelriveros4&theme=transparent&show_icons=true&count_private=true" />
-        <br><br>
-        <!-- Streak -->
-        <img src="https://streak-stats.demolab.com?user=nahuelriveros4&theme=transparent&hide_border=false" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Lenguajes más usados -->
-        <img src="https://github-readme-stats-kohl-phi.vercel.app/api/top-langs/?username=nahuelriveros4&theme=transparent&layout=compact&hide_border=false&langs_count=7" />
-      </td>
-    </tr>
-  </table>
-</p>
-
