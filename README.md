@@ -77,14 +77,14 @@
     <tr>
       <td width="50%" align="center">
         <!-- Stats generales -->
-        <img src="https://github-readme-stats.vercel.app/api?username=nahuelriveros4&theme=transparent&show_icons=true&count_private=true" />
+        <img src="https://github-readme-stats-kohl-phi.vercel.app/api?username=nahuelriveros4&theme=transparent&show_icons=true&count_private=true" />
         <br><br>
         <!-- Streak -->
         <img src="https://streak-stats.demolab.com?user=nahuelriveros4&theme=transparent&hide_border=false" />
       </td>
       <td width="50%" align="center">
-        <!-- Lengujes más usados -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelriveros4&theme=transparent&layout=compact&hide_border=false&langs_count=7" />
+        <!-- Lenguajes más usados -->
+        <img src="https://github-readme-stats-kohl-phi.vercel.app/api/top-langs/?username=nahuelriveros4&theme=transparent&layout=compact&hide_border=false&langs_count=7" />
       </td>
     </tr>
   </table>
