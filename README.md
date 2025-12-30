@@ -67,12 +67,26 @@
 	</a>
 </p>
 
-<h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;"> Github Stats </h3>
-<p align="cenetr">
-  <table align="center"> <tr border="none"> <td width="50%" align="center"> 
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=nahuelriveros4&theme=transparent&show_icons=true&count_private=true" /> 
-    <br></br> 
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelriveros4&theme=transparent&hide_border=false" /> 
-</td> <td width="50%" align="center"> 
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nahuelriveros4&theme=transparent&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/> 
-</td> </tr> </table>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+  Github Stats
+</h3>
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <!-- Stats generales -->
+        <img src="https://github-readme-stats.vercel.app/api?username=nahuelriveros4&theme=transparent&show_icons=true&count_private=true" />
+        <br><br>
+        <!-- Streak -->
+        <img src="https://streak-stats.demolab.com?user=nahuelriveros4&theme=transparent&hide_border=false" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Lengujes más usados -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelriveros4&theme=transparent&layout=compact&hide_border=false&langs_count=7" />
+      </td>
+    </tr>
+  </table>
+</p>
+
